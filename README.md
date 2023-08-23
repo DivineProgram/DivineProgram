@@ -7,10 +7,10 @@
 
 [![My Skills](https://skillicons.dev/icons?i=py,django,flask,sqlite,js,html,css,replit)](https://skillicons.dev)
 
-<p style='align: center;'><img src='https://skillicons.dev/icons?i=py,django,flask,sqlite,js,html,css,replit'/></p>
+<p style='text-align: center;'><img src='https://skillicons.dev/icons?i=py,django,flask,sqlite,js,html,css,replit'/></p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DivineProgram&theme=tokyonight)](https://github.com/DivineProgram/github-readme-stats)
 
-<p style='align: center;'><img src='https://github-readme-stats.vercel.app/api?username=DivineProgram&theme=tokyonight'/></p>
+<p style='text-align: center;'><img src='https://github-readme-stats.vercel.app/api?username=DivineProgram&theme=tokyonight'/></p>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DivineProgram&theme=tokyonight)](https://github.com/DivineProgram/github-readme-stats)
