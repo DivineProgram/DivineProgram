@@ -7,6 +7,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=py,django,flask,sqlite,js,html,css,replit)](https://skillicons.dev)
 
-http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username={username}&theme={theme_name}&exclude={exclude}
+[![Words]
+(http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DivineProgram]
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DivineProgram)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DivineProgram)](https://github.com/DivineProgram/github-readme-stats)
