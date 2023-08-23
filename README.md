@@ -9,4 +9,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DivineProgram&theme=tokyonight)](https://github.com/DivineProgram/github-readme-stats)
 
+<img style='width: 100%;' src='https://github-readme-stats.vercel.app/api?username=DivineProgram&theme=tokyonight'/>
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DivineProgram&theme=tokyonight)](https://github.com/DivineProgram/github-readme-stats)
