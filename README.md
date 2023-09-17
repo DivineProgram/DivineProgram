@@ -7,6 +7,4 @@
 
 [![My Skills](https://skillicons.dev/icons?i=replit,py,flask,django,sqlite,css,html,js)](https://skillicons.dev)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DivineProgram&theme=tokyonight)](https://github.com/DivineProgram/github-readme-stats)
-
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DivineProgram&theme=tokyonight)](https://github.com/DivineProgram/github-readme-stats)
