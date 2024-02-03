@@ -1,5 +1,4 @@
-# I’m @DivineProgram
-## 📚 I'm currently a student in my last year of Sixth Form, nearing my venture to university!
+## 📚 I'm @DivineProgram, currently a student in my last year of Sixth Form, nearing my venture to university!
 
 - 📋 My skill is that although the knowledge I have is not very expansive, I have honed my ability to use what I have to create effective and innovative solutions, in a way unforseen by my peers.
 - 🌱 My strengths are primarily in Python, with some elementary skills in Javascript.
