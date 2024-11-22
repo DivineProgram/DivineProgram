@@ -7,7 +7,8 @@
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,flask,django,sqlite"/><br/>
-    <img src="https://skillicons.dev/icons?i=css,html,js,c,haskell,robloxstudio"/><br/>
+    <img src="https://skillicons.dev/icons?i=css,html,js"/><br/>
+    <img src="https://skillicons.dev/icons?i=c,haskell,robloxstudio"/>
   </a>
 </p>
 
