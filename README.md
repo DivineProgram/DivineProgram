@@ -6,9 +6,9 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,flask,django,sqlite,pycharm"/>
-    <img src="https://skillicons.dev/icons?i=css,html,js"/>
-    <img src="https://skillicons.dev/icons?i=c,clion"/>
+    <img src="https://skillicons.dev/icons?i=py,flask,django,sqlite,pycharm"/><br/>
+    <img src="https://skillicons.dev/icons?i=css,html,js"/><br/>
+    <img src="https://skillicons.dev/icons?i=c,clion"/><br/>
     <img src="https://skillicons.dev/icons?i=haskell,robloxstudio"/>
   </a>
 </p>
