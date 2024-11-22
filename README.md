@@ -11,5 +11,3 @@
     <img src="https://skillicons.dev/icons?i=c,haskell"/>
   </a>
 </p>
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DivineProgram&theme=tokyonight)](https://github.com/DivineProgram/github-readme-stats)
